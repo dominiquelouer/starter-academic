@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: McGill University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include psycholinguistics and bilingualism.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Psycholinguistics
+- Bilingualism
+- Music cognition
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MASc in Developmental and Communication Science 
+    institution: University of Waterloo
+    year: 2020
+  - course: MA in French Studies
+    institution: University of Waterloo
+    year: 2019
+  - course: BA in French Studies and Interdisciplinary Linguistics
+    institution: University of Winnipeg
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,10 +47,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/dominiquelouer
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=WC1-y0EAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
@@ -70,6 +70,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a PhD student in Communication Sciences and Disorders at McGill University in Montréal, Canada. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My main research interest is bilingualism, particularly how bilingual individuals produce and perceive both of their languages. I’m currently involved in projects investigating rhythm perception in bilinguals and bilingual speech perception. 
+
+Please do not hesitate to contact me if you have any questions relating to my research!
